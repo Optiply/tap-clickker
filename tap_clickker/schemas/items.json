@@ -1,0 +1,1185 @@
+{
+  "type": "object",
+  "properties": {
+    "AddExtraReceiptToOrder": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "Assortment": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "AssortmentCode": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "AssortmentDescription": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "AssortmentOriginal": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "AssortmentSecurityLevel": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "Blocked": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "Class01Code": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "Class02Code": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "Class03Code": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "Class04Code": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "Class05Code": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "Class06Code": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "Class07Code": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "Class08Code": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "Class09Code": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "Class10Code": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "CommissionMethod": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "CommissionValue": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "CompanyCode": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "CompanyName": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "Condition": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "ConfigurationClass": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "CostPriceCalculated": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "CostPriceCalculatedManually": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "CostPriceCurrency": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "CostPriceStandard": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "CountingCycle": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "CountryCode": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "CountryDescription": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "CountrySpecificAvailableFrom": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date-time"
+    },
+    "CountrySpecificAvailableUntil": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date-time"
+    },
+    "CountrySpecificDescription": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "CountrySpecificID": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "CountrySpecificNote": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "CountrySpecificOwnerPerson": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "CreatedDate": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date-time"
+    },
+    "Creator": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "CreatorName": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "DateFreeField1": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date-time"
+    },
+    "DateFreeField2": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date-time"
+    },
+    "DateFreeField3": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date-time"
+    },
+    "DateFreeField4": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date-time"
+    },
+    "DateFreeField5": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date-time"
+    },
+    "DeleteMode": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "DeleteReplacement": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "Description0": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "Description1": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "Description2": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "Description3": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "Description4": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "ESFCountryDescLeading": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "ESFItemCountriesID": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "ExtraDutyVATCode": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "GLAccountAsset": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "GLAccountAssetDescription": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "GLAccountCost": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "GLAccountCostDescription": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "GLAccountCostOld": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "GLAccountDiscount": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "GLAccountDistribution": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "GLAccountDistributionDescription": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "GLAccountDistributionOld": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "GLAccountRevenue": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "GLAccountRevenueDescription": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "GLAccountRevenueOld": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "GLAccountStkChange": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "GLAccountStkCoverage": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "GrossWeight": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "GTIN": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "HTSCode": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "IncrementFactor": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "IsAssembled": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "IsBackOrderItem": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "IsBackToBackOrder": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "IsBatchItem": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "IsBinaryServiceEnabled": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "IsCommissionable": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "IsDiscount": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "IsExplode": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "IsFractionAllowedItem": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "IsIntrastatEnabled": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "IsOutsourcedItem": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "IsPriceRegulationItem": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "IsPrintItem": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "IsPurchaseItem": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "IsSalesItem": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "IsSerialNumberItem": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "IsServiceItem": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "IsStockItem": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "IsSubAssemblyItem": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "IsTaxItem": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "IsTextItem": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "ItemCode": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "ItemGroup": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "ItemReplacementCode": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "ItemReplacementDescription": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "ItemToBeReceivedLedger": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "ItemType": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "LevCreditorNumber": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "LevelCode": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "LinkItemCode": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "MessageID": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "ModifiedDate": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date-time"
+    },
+    "Modifier": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "ModifierName": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "NetWeight": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "NewCountry": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "NewMode": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "NumberFreeField1": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "NumberFreeField2": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "NumberFreeField3": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "NumberFreeField4": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "NumberFreeField5": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "NumberFreeField6": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "NumberFreeField7": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "NumberFreeField8": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "NumberFreeField9": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "NumberFreeField10": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "NumberFreeField11": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "NumberFreeField12": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "NumberFreeField13": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "OrderPolicyCode": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "OwnerPersonName": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "PackageDescription": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "PackageDescriptionOld": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "Percentage1": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "Percentage2": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "PeriodOrderDays": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "PictureFilename": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "ProductLine": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "PurchaseRequestDescription": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "PurchaseRequestID": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "PurchaseRequestType": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "PurchaseVatCode": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "QuantityPerSalesPackage": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "RepairAccountsNeeded": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "RepairUnitNeeded": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "RequiresApprovedSupplier": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "SalesCurrency": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "SalesID": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "SalesMarginPercent": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "SalesPackagePrice": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "SalesPrice": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "SalesPriceOriginal": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "SalesPriceType": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "SalesRequestDescription": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "SalesRequestID": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "SalesRequestType": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "SalesUnit": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "SalesValidFrom": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date-time"
+    },
+    "SalesVATCode": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "SalesVATCodeDescription": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "SearchCode": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "SecurityLevel": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "SerialBatchItem": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "SerialBatchMask": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "Shelflife": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "StatisticalFactorPurchase": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "StatisticalFactorSales": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "StatisticalNumber": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "StatisticalUnits": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "SyncAvailableFrom": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "SyncAvailableUntil": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "TaxItemClassification": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "TextDescription": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "TextFreeField1": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "TextFreeField2": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "TextFreeField3": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "TextFreeField4": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "TextFreeField5": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "TextFreeField6": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "TextFreeField7": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "TextFreeField8": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "TextFreeField9": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "TextFreeField10": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "Type": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "TypeOriginal": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "UnitFactor1": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "UnitFactor2": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "ValuationMethod": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "Warehouse": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "WarehouseDescription": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "Warranty": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "YesNoFreeField1": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "YesNoFreeField2": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "YesNoFreeField3": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "YesNoFreeField4": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "YesNoFreeField5": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "ID": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "EANCode": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "BARCode": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "BARCodeType": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "BTWPer": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "BTWOms": {
+      "type": [
+        "string",
+        "null"
+      ]
+    }
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "type": "object",
+  "properties": {
+    "Code": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "Description": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "Contact": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "ContactDescription": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "Blocked": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "AddressLine1": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "AddressLine2": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "AddressLine3": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "City": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "Country": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "CountryDescription": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "DropShip": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "Fax": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "IntakeLocation": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "IntakeLocationDescription": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "InvoiceAddressGUID": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "IsoCountry": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "IsoRegion": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "Phone": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "PostCode": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "State": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "StateDescription": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "CreatedDate": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date-time"
+    },
+    "Creator": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "CreatorName": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "ModifiedDate": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date-time"
+    },
+    "Modifier": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "ModifierName": {
+      "type": [
+        "string",
+        "null"
+      ]
+    }
+  }
+}

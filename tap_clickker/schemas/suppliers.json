@@ -1,0 +1,1235 @@
+{
+  "type": "object",
+  "properties": {
+    "Abbreviation": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "Attention": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "AccountCode": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "AccountName": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "AccountManagerID": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "AccountStatus": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "AllowPartialDelivery": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "AllowBackorder": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "AutoAllocate": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "BankAccount": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "BankAccountType": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "BICCode": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "Blocked": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "ChamberofCommerceNumber": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "ClassificationID": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "ClassificationDescription": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "CodeatSupplier": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "CollectionInvoice": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "CompanyCode": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "CompanySize": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "CreditLine": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "CreditorCode": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "CreditorNumber": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "CurrencyCode": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "CustomerType": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "CustomerStatus": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "Category_01": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "Category_02": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "Category_03": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "Category_04": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "Category_05": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "Category_06": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "Category_07": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "Category_08": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "Category_09": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "Category_10": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "Category_11": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "Category_12": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "Category_13": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "Category_14": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "Category_15": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "ChangeVatData": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "CheckDate": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date-time"
+    },
+    "DateFreeField1": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date-time"
+    },
+    "DateFreeField2": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date-time"
+    },
+    "DateFreeField3": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date-time"
+    },
+    "DateFreeField4": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date-time"
+    },
+    "DateFreeField5": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date-time"
+    },
+    "DateLastReminder": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date-time"
+    },
+    "DebtorCode": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "DebtorCreditorAccount": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "DebtorNumber": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "DefaultSelCode": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "DeliveryAddressline1": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "DeliveryAddressline2": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "DeliveryAddressline3": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "DeliveryCity": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "DeliveryCountry": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "DeliveryCounty": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "DeliveryState": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "DeliveryMethod": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "DeliveryPostCode": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "DunBradstreetNumber": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "Discount": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "EmailAddress": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "ExtraDuty": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "ExtraItemDescription": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "FaxNumber": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "GuidFreeField1": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "GuidFreeField2": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "GuidFreeField3": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "GuidFreeField4": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "GuidFreeField5": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "IBAN": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "ID": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "IntegerFreeField1": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "IntegerFreeField2": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "IntegerFreeField3": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "IntegerFreeField4": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "IntegerFreeField5": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "InvoiceAddress": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "InvoiceAddress2": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "InvoiceAddress3": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "InvoiceAddressPostCode": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "InvoiceCity": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "InvoiceCopies": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "InvoiceCountry": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "InvoiceCounty": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "InvoiceState": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "InvoiceDebtor": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "IsBinaryServiceEnabled": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "IsTaxExempted": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "JournalCode": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "MailingAddress1": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "MailingAddress2": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "MailingAddress3": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "MailingCity": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "MailingCountry": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "MailingCounty": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "MailingState": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "MailingPostcode": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "MessageIDRemarks": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "ModifiedDate": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date-time"
+    },
+    "CreatedDate": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date-time"
+    },
+    "Creator": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "Modifier": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "NumberFreeField1": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "NumberFreeField2": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "NumberFreeField3": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "NumberFreeField4": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "NumberFreeField5": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "OffsetLedgerAccount": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "Parent": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "PaymentCondition": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "PhoneExtension": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "PhoneNumber": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "PostalAddressLine1": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "PostalAddressLine2": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "PostalAddressLine3": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "PostalCity": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "PostalCountry": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "PostalCounty": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "PostalState": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "PostalPostCode": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "PriceList": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "OrderConfirmation": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "PurchaseOrderConfirmation": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "Rating": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "Reminder": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "ResellerID": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "SectorCode": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "SignDate": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date-time"
+    },
+    "Source": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "SubSector": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "SupplierID": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "TextFreeField1": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "TextFreeField2": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "TextFreeField3": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "TextFreeField4": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "TextFreeField5": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "TextFreeField6": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "TextFreeField7": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "TextFreeField8": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "TextFreeField9": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "TextFreeField10": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "TextFreeField11": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "TextFreeField12": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "TextFreeField13": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "TextFreeField14": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "TextFreeField15": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "TextFreeField16": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "TextFreeField17": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "TextFreeField18": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "TextFreeField19": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "TextFreeField20": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "TextFreeField21": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "TextFreeField22": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "TextFreeField23": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "TextFreeField24": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "TextFreeField25": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "TextFreeField26": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "TextFreeField27": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "TextFreeField28": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "TextFreeField29": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "TextFreeField30": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "VatCode": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "VATLiability": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "VATNumber": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "WebAddress": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "YesNoFreeField1": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "YesNoFreeField2": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "YesNoFreeField3": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "YesNoFreeField4": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "YesNoFreeField5": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "ContactEmail": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "ContactFaxNumber": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "ContactFirstName": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "ContactGender": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "ContactID": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "ContactInitials": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "ContactLanguage": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "ContactLastName": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "ContactMiddleName": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "ContactMobileNumber": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "ContactCreator": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "ContactCreatedDate": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date-time"
+    },
+    "ContactModifier": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "ContactModifiedDate": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date-time"
+    },
+    "ContactNumberFreeField1": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "ContactNumberFreeField2": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "ContactNumberFreeField3": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "ContactNumberFreeField4": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "ContactNumberFreeField5": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "ContactPhoneNumber": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "ContactSuffix": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "ContactTitle": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "JobDescription": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "JobTitle": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "InvoiceMethod": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "IncoTermAcknowledgeOrder": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "IncoTermConfirmPrices": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "IncoTermCode": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "IncoTermProperty": {
+      "type": [
+        "string",
+        "null"
+      ]
+    }
+  }
+}

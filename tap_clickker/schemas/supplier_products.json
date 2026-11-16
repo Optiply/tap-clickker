@@ -1,0 +1,260 @@
+{
+  "type": "object",
+  "properties": {
+    "ID": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "AccountCode": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "AccountName": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "AccountType": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "AccountTypeDescription": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "CompanyCode": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "CountryOfAssembly": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "CountryOfOrigin": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "CreatedDate": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date-time"
+    },
+    "Creator": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "CreditorNumber": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "CreditorNumberOriginal": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "DeliverableFromStock": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "DeliveryTimeInDays": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "DiscountMargin": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "DocumentCreatedDate": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date-time"
+    },
+    "DocumentCreatedName": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "DocumentID": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "DocumentSubject": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "DropShip": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "EANCode": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "ItemCode": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "ItemCodeAccount": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "ItemDescription": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "MainAccount": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "Manufacturer": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "ModifiedDate": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date-time"
+    },
+    "Modifier": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "PurchaseCurrency": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "PurchaseOrderSize": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "PurchasePackage": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "PurchasePrice": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "PurchaseVATCode": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "PurchaseVATIncluding": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "PurchaseVATPercentage": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "SalesPackagesPerPurchasePackage": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "SalesPriceRecommended": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "StatisticalFactor": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "SupplierPreference": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "VATDescription": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "VATPercentage": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "Warranty": {
+      "type": [
+        "number",
+        "null"
+      ]
+    }
+  }
+}

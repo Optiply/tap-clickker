@@ -1,0 +1,530 @@
+{
+  "type": "object",
+  "properties": {
+    "CalcCostPrice": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "CostCenter": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "CostPrice": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "Description": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "DrawingNo": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "EffectiveDate": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date-time"
+    },
+    "ExpiredDate": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date-time"
+    },
+    "FreeField1": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "FreeField2": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "FreeField3": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "FreeField4": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "FreeField5": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "FreeField6": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "FreeField7": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "FreeField8": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "FreeField9": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "FreeField10": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "FreeField11": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date-time"
+    },
+    "FreeField12": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date-time"
+    },
+    "FreeField13": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "FreeField14": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "FreeField15": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "FreeField16": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "FreeField17": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "FreeField18": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "FreeField19": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "FreeField20": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "ID": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "Instructions": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "IsForEditing": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "ItemCode": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "LeadTime": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "MainVersion": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "Quantity": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "Version": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "Warehouse": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "Assortment": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "ModifiedDate": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date-time"
+    },
+    "Lines": {
+      "type": [
+        "array",
+        "null"
+      ],
+      "items": {
+        "type": [
+          "object",
+          "null"
+        ],
+        "properties": {
+          "Action": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "Attachment": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "Backflush": {
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "ByProduct": {
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "CostCenter": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "CostPrice": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "FreeField1": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "FreeField2": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "FreeField3": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "FreeField4": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "FreeField5": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "FreeField6": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "FreeField7": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "FreeField8": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "FreeField9": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "FreeField10": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "FreeField11": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "format": "date-time"
+          },
+          "FreeField12": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "format": "date-time"
+          },
+          "FreeField13": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "FreeField14": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "FreeField15": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "FreeField16": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "FreeField17": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "FreeField18": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "FreeField19": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "FreeField20": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "FromDay": {
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "ID": {
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "ItemProd": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "ItemReq": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "LineType": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "Machine": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "ManualCostPrice": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "NotesID": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "Operation": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "PlanAutomatically": {
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "Position": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "Quantity": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "ResourceID": {
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "SequenceNo": {
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "Step": {
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "ToDay": {
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "Variant": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "Version": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "Warehouse": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "WorkCenter": {
+            "type": [
+              "string",
+              "null"
+            ]
+          }
+        }
+      }
+    }
+  }
+}

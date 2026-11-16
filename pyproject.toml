@@ -1,0 +1,26 @@
+[project]
+name = "tap-clickker"
+version = "0.1.0"
+description = "Singer tap for the Clickker API (Exact Globe/Synergy), built with the HotGlue Singer SDK."
+authors = [{ name = "Optiply" }]
+license = "Apache-2.0"
+readme = "README.md"
+keywords = ["ELT", "Clickker", "Exact Globe", "Singer"]
+requires-python = ">=3.10,<3.12"
+dependencies = [
+    "hotglue-singer-sdk>=1.0.51,<2",
+    "requests>=2.25.1,<3",
+]
+
+[project.scripts]
+tap-clickker = "tap_clickker.tap:TapClickker.cli"
+
+[dependency-groups]
+dev = ["pytest>=8"]
+
+[tool.poetry]
+packages = [{ include = "tap_clickker" }]
+
+[build-system]
+requires = ["poetry-core>=2.0,<3"]
+build-backend = "poetry.core.masonry.api"

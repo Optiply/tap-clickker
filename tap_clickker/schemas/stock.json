@@ -1,0 +1,90 @@
+{
+  "type": "object",
+  "properties": {
+    "Warehouse": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "Itemcode": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "Stock": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "ToBeDelivered": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "ToBeReceived": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "AvailableStock": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "FreeStock": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "ModifiedDate": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date-time"
+    },
+    "CostPrice": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "Minimum": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "Maximum": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "NoStockMutations": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "DeliveryTime": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "CountingCycle": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    }
+  }
+}

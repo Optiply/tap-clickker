@@ -1,0 +1,1174 @@
+{
+  "type": "object",
+  "properties": {
+    "AcknowledgeOrder": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "AdditionalDateField01": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date-time"
+    },
+    "AdditionalDateField02": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date-time"
+    },
+    "AdditionalDateField03": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date-time"
+    },
+    "AdditionalDateField04": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date-time"
+    },
+    "AdditionalDateField05": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date-time"
+    },
+    "AdditionalField01": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "AdditionalField02": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "AdditionalField03": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "AdditionalField04": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "AdditionalField05": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "AdditionalField06": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "AdditionalField07": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "AdditionalField08": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "AdditionalField09": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "AdditionalField10": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "AdditionalNumberField01": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "AdditionalNumberField02": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "AdditionalNumberField03": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "AdditionalNumberField04": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "AdditionalNumberField05": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "AdditionalNumberField06": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "AdditionalNumberField07": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "AdditionalNumberField08": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "AdditionalNumberField09": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "AdditionalNumberField10": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "AdditionalYesNoField01": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "AdditionalYesNoField02": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "AdditionalYesNoField03": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "AdditionalYesNoField04": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "AdditionalYesNoField05": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "ConfirmPrices": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "CostCenter": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "CurrencyCode": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "CurrencyRate": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "DeletionReason": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "DeliveryDate": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date-time"
+    },
+    "DeliveryToAddress1": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "DeliveryToAddress2": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "DeliveryToAddress3": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "DeliveryToCity": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "DeliveryToContactEmail": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "DeliveryToContactPerson": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "DeliveryToCounty": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "DeliveryToDebtor": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "DeliveryToDebtorCode": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "DeliveryToFax": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "DeliveryToInitials": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "DeliveryToJobTitle": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "DeliveryToLandCode": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "DeliveryToName": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "DeliveryToPhone": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "DeliveryToPostCode": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "DeliveryToStateCode": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "DeliveryToTitle": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "Description": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "Description1": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "Description2": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "Description3": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "Completed": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "ExtraItemDescription": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "FreeField1": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "FreeField2": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "FreeField3": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "FreeField4": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "FreeField5": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "ID": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "InvoiceDebtor": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "InvoiceDebtorCode": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "InvoiceToAddress1": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "InvoiceToAddress2": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "InvoiceToAddress3": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "InvoiceToCity": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "InvoiceToContactEmail": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "InvoiceToContactPerson": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "InvoiceToFax": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "InvoiceToInitials": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "InvoiceToJobTitle": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "InvoiceToLandCode": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "InvoiceToName": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "InvoiceToPhone": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "InvoiceToPostcode": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "InvoiceToStateCode": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "InvoiceToTitle": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "IsUseAdditionalFields": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "OrderedAt": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "OrderedAtCode": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "OrderedAtAddress1": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "OrderedAtAddress2": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "OrderedAtAddress3": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "OrderedAtCity": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "OrderedAtContactEmail": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "OrderedAtContactPerson": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "OrderedAtFax": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "OrderedAtInitials": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "OrderedAtJobTitle": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "OrderedAtLandCode": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "OrderedAtName": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "OrderedAtPostcode": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "OrderedAtStateCode": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "OrderedAtTitle": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "PaymentCondition": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "POrConfirmation": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "Project": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "PurchaseOrderDate": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date-time"
+    },
+    "PurchaseOrderMethod": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "PurchaseOrderNumber": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "Resource": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "SelectionCode": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "ShippingVia": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "Status": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "SysGuid": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "TotalAmount": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "TotalAmountExclVAT": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "TotalVAT": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "Warehouse": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "CreatedDate": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date-time"
+    },
+    "Creator": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "ModifiedDate": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date-time"
+    },
+    "Modifier": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "Lines": {
+      "type": [
+        "array",
+        "null"
+      ],
+      "items": {
+        "type": [
+          "object",
+          "null"
+        ],
+        "properties": {
+          "AdditionalDateField01": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "format": "date-time"
+          },
+          "AdditionalDateField02": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "format": "date-time"
+          },
+          "AdditionalDateField03": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "format": "date-time"
+          },
+          "AdditionalDateField04": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "format": "date-time"
+          },
+          "AdditionalDateField05": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "format": "date-time"
+          },
+          "AdditionalField01": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "AdditionalField02": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "AdditionalField03": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "AdditionalField04": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "AdditionalField05": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "AdditionalField06": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "AdditionalField07": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "AdditionalField08": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "AdditionalField09": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "AdditionalField10": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "AdditionalNumberField01": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "AdditionalNumberField02": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "AdditionalNumberField03": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "AdditionalNumberField04": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "AdditionalNumberField05": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "AdditionalNumberField06": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "AdditionalNumberField07": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "AdditionalNumberField08": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "AdditionalNumberField09": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "AdditionalNumberField10": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "AdditionalYesNoField01": {
+            "type": [
+              "boolean",
+              "null"
+            ]
+          },
+          "AdditionalYesNoField02": {
+            "type": [
+              "boolean",
+              "null"
+            ]
+          },
+          "AdditionalYesNoField03": {
+            "type": [
+              "boolean",
+              "null"
+            ]
+          },
+          "AdditionalYesNoField04": {
+            "type": [
+              "boolean",
+              "null"
+            ]
+          },
+          "AdditionalYesNoField05": {
+            "type": [
+              "boolean",
+              "null"
+            ]
+          },
+          "AmountInclDiscExclVAT": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "Area": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "CityOfLoading": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "CostCenter": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "CostUnit": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "Country": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "CountryISO": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "CountryOrigin": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "DeliveryDate": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "format": "date-time"
+          },
+          "DeliveryMethod": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "Description": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "DiscountPercentage": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "ID": {
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "Instruction": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "ItemCode": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "LineNumber": {
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "NetPrice": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "NetWeight": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "OriginalPoline": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "Price": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "PriceList": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "Project": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "Quantity": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "QuantityDelivered": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "Resource": {
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "SalesOrderLine": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "SalesOrderNumber": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "SerialNumber": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "StatisticalCode": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "StatisticalSystem": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "StatisticalUnits": {
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "SysGuid": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "TransactionA": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "TransactionB": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "Transportation": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "TransShipment": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "Unit": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "VATCode": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "Warehouse": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "BlanketOrderLine": {
+            "type": [
+              "string",
+              "null"
+            ]
+          }
+        }
+      }
+    }
+  }
+}
